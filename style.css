@@ -1,16 +1,23 @@
 .jumbotron {
   padding-top: 5rem;
-  background-color: #e2edff;
+  background-color: #d0d3d8;
 }
 
 #projects {
-  background-color: #e2edff;
+  background-color: #d0d3d8;
 }
 
 footer {
-  background-color: #3594d3;
+  background-color: #545d63;
 }
 
 section {
   padding-top: 6rem;
+}
+
+.btn {
+  background-color: #545d63;
+  color: white;
+  padding: 7px 17px;
+  border-radius: 17px;
 }
