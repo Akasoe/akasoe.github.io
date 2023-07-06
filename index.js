@@ -3,5 +3,5 @@ function submitdata() {
   var email = document.getElementById("email").value;
   var message = document.getElementById("pesan").value;
 
-  alert("Sended!");
+  alert("Sent!, Thank you for contacting me.");
 }
